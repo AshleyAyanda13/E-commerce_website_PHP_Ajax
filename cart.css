@@ -1,0 +1,58 @@
+
+ 
+
+
+
+
+.cartheading
+{
+
+
+display:flex;
+
+justify-content:center;
+align-items:center;
+color:rgb(25, 24, 26);
+text-decoration: underline;
+
+
+}
+#cartholder
+{
+
+
+background-color: rgba(224, 250, 241, 0.759);
+
+
+
+ min-height :600px;
+
+
+
+
+width: 900px;
+
+
+}
+#cart{
+
+
+
+    display:flex;
+justify-content: center;
+align-items: center;
+
+}
+
+#hr
+{
+color:red;
+position: relative;
+
+
+top:30px;
+
+
+
+
+}
